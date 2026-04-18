@@ -2,4 +2,4 @@
 KCL 6PASNRES
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab8b44c5-f751-466f-8672-5d3bb14a96ec" />
+<img width="800" height="450" alt="MonoWheel-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/fbee60f6-dd0b-45f1-b4e9-114487a29abe" />
