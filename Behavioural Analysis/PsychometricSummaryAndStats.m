@@ -15,7 +15,7 @@
 
 clear; clc; close all;
 
-data_dir     = 'C:\Users\Nathan\Documents\Files\ReProj\Summary EyesPlusBehaviour';
+data_dir     = '.';
 subject_nums = [4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 26 28 29 30 31 32 33 34 35 36];
 
 PSE_col   = 1;
